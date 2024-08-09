@@ -1,0 +1,1033 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+.SnP {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.SnP1 {
+    font-family: "Abril Fatface", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 47px;
+    color: white;
+}
+
+.SnP2 {
+    font-family: "Abril Fatface", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 27px;
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.nav {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.navContent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    /* background-color: rgb(61, 84, 84); */
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: aquamarine; */
+    width: 95%;
+}
+
+.arrow {
+    display: inline;
+}
+
+.navT {
+    color: white;
+    font-size: large;
+}
+
+.navT:hover {
+    cursor: pointer;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+button {
+    height: 50px;
+    width: 130px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.Get {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 22px;
+}
+
+.Order {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-radius: 22px;
+}
+
+.m {
+    visibility: hidden;
+}
+
+
+
+.wellcome-child {
+    color: white;
+}
+
+.wellcome {
+    color: white;
+}
+
+.parent-black {
+    background-color: black;
+    padding-top: 100px;
+}
+
+.child-head {
+    /* background-color: yellow; */
+    width: 50%;
+    text-align: center;
+
+}
+
+.order {
+    color: white;
+    border-radius: 50px;
+    border-color: white;
+    background-color: black;
+    /* padding-top: 10px; */
+    margin-top: 10px;
+}
+
+.salt {
+    color: white;
+}
+
+.franchise-small {
+    color: white;
+}
+
+.location-one {
+    color: white;
+}
+
+.call-one {
+    color: white;
+}
+
+.rest-one {
+    color: white;
+    font-size: 30px;
+    /* font-weight: bold; */
+    margin-left: 10px;
+}
+
+.islamabad {
+    color: white;
+}
+
+.button-one {
+    color: white;
+    background-color: black;
+    border-color: red;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+}
+
+.button-two-second {
+    color: white;
+    background-color: black;
+    border-color: red;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+}
+
+.salt {
+    text-align: center;
+}
+
+.express-franchices {
+    color: white;
+}
+
+.parent-slider {
+    width: 100%;
+}
+
+.emporium {
+    color: red;
+}
+
+.expprs {
+    color: white;
+}
+
+.food-court {
+    color: white;
+}
+
+.ph {
+    color: white;
+}
+
+.Gujranwala {
+    color: red;
+}
+
+.sargodha {
+    color: red;
+}
+
+.directions-2 {
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border-color: red;
+    font-family: cursive;
+    width: 200px;
+}
+
+.directions-2:hover {
+    background-color: red;
+    color: black;
+    border-color: white;
+}
+
+.Jhelum {
+    color: white;
+}
+
+.Faisal-Town {
+    color: white;
+}
+
+.DHA {
+    color: white;
+}
+
+.Gujrat {
+    color: white;
+}
+
+.Sahiwal {
+    color: white;
+}
+
+.village-franchise {
+    color: white;
+}
+
+.GUJRANWALA {
+    color: red;
+}
+
+.directions-3 {
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 30px;
+    width: 200px;
+}
+.directions-3:hover{
+    background-color: white;
+    color: green;
+}
+
+.btn-direction-3 {
+    color: white;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.Express-Franchises {
+    color: white;
+    font-family: "Abril Fatface", serif;
+}
+
+.social-head{
+    font-family: "Abril Fatface", serif;
+}
+
+.opn{
+    font-size: 25px;
+}
+
+.mrgn-img {
+    border-radius: 100px;
+}
+
+.social-head {
+    color: white;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.footer-parent {
+    background-color: aquamarine;
+    height: 500px;
+}
+
+.footer-first-child {
+    background-color: burlywood;
+    width: 30%;
+    height: 250px;
+}
+
+.unnamed-img {
+    width: 35%;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer-second-child {
+    background-color: blueviolet;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 200px;
+}
+
+.site-links {
+    font-size: large;
+    font-weight: 700;
+    color: white;
+}
+
+.footer-third-child {
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+}
+
+.fourth-child {
+    background-color: chartreuse;
+    padding-left: 100px;
+    height: 200px;
+}
+
+.footer-para {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+.contact {
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+
+.follow {
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+
+.saltnpepper-para {
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    margin-top: 30px;
+
+    height: 1000px;
+}
+
+.button-chanching {
+    background-color: black;
+    color: white;
+    border-color: red;
+    border-radius: 30px;
+    width: 150px;
+}
+
+.arrow-changing {
+    height: 25px;
+}
+footer{
+    background-color: rgb(15, 14, 14);
+}
+.footer-parent {
+    background-color: rgb(15, 14, 14);
+    margin-top: 10px;
+}
+
+.f-parent{
+    margin-top: 20px;
+}
+
+.red {
+    color: red;
+}
+.site-links{
+    font-family: "Abril Fatface", serif;
+    font-weight: 200;
+}
+
+
+
+@media screen and (min-width: 319px) and (max-width: 374px) {
+    .navT {
+        display: none;
+    }
+
+    .Get {
+        display: none;
+    }
+
+    .logo {
+        width: 110px;
+        height: 65px;
+    }
+
+    button {
+        height: 33px;
+        width: 150px;
+        font-size: 11px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .navContent {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .right {
+        width: 30%;
+    }
+
+    .m {
+        visibility: visible;
+    }
+
+    .village-img {
+        height: 200px;
+        width: 270px;
+    }
+    .parent-black button{
+        margin: 7px;
+    }
+    .child-head{
+        font-size: 14px;
+        padding: 0;
+        width: 80%;
+    }
+    .wellcome{
+        font-size: 16px;
+    }
+    .SnP1{
+        font-size: 17px;
+    }
+    .salt{
+        font-size: 16px;
+    }
+    .rest-one{
+        font-size: 16px;
+    }
+    .button-one{
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .isl{
+        height: 400px;
+    }
+     .childimg-1{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-1{
+        /* background-color: aqua; */
+        width: 88%;
+    }
+
+    .childimg-2{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-2{
+        /* background-color: aqua; */
+        width: 88%;
+        font-size: medium;
+    }
+    .first3{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec3{
+        display: flex;
+        flex-direction: column;
+    }
+    .lastS{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+    .navT {
+        display: none;
+    }
+
+    .Get {
+        display: none;
+    }
+
+    .logo {
+        width: 130px;
+        height: 65px;
+    }
+
+    button {
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .navContent {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .right {
+        width: 30%;
+    }
+
+    .m {
+        visibility: visible;
+    }
+
+    .village-img {
+        height: 200px;
+        width: 270px;
+    }
+    .parent-black button{
+        margin: 7px;
+    }
+    .child-head{
+        font-size: 14px;
+        padding: 0;
+        width: 80%;
+    }
+    .wellcome{
+        font-size: 16px;
+    }
+    .SnP1{
+        font-size: 17px;
+    }
+    .salt{
+        font-size: 16px;
+    }
+    .rest-one{
+        font-size: 16px;
+    }
+    .button-one{
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .isl{
+        height: 400px;
+    }
+     .childimg-1{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-1{
+        /* background-color: aqua; */
+        width: 88%;
+    }
+
+    .childimg-2{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-2{
+        /* background-color: aqua; */
+        width: 88%;
+        font-size: medium;
+    }
+    .first3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .lastS{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .navT {
+        display: none;
+    }
+
+    .Get {
+        display: none;
+    }
+
+    .logo {
+        width: 170px;
+        height: 85px;
+    }
+
+    button {
+        height: 40px;
+        width: 100px;
+        font-size: 13px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .navContent {
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .right {
+        width: 30%;
+    }
+
+    .m {
+        visibility: visible;
+    }
+
+    .village-img {
+        height: 200px;
+        width: 270px;
+    }
+    .parent-black button{
+        margin: 7px;
+    }
+    .child-head{
+        font-size: 14px;
+        padding: 0;
+        width: 80%;
+    }
+    .wellcome{
+        font-size: 16px;
+    }
+    .SnP1{
+        font-size: 17px;
+    }
+    .salt{
+        font-size: 16px;
+    }
+    .rest-one{
+        font-size: 16px;
+    }
+    .button-one{
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .isl{
+        height: 400px;
+    }
+     .childimg-1{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-1{
+        /* background-color: aqua; */
+        width: 88%;
+    }
+
+    .childimg-2{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-2{
+        /* background-color: aqua; */
+        width: 88%;
+        font-size: medium;
+    }
+    .first3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .lastS{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .navT {
+        display: none;
+    }
+
+    .Get {
+        display: none;
+    }
+
+    .logo {
+        width: 170px;
+        height: 85px;
+    }
+
+    button {
+        height: 40px;
+        width: 100px;
+        font-size: 13px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .navContent {
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .right {
+        width: 30%;
+    }
+
+    .m {
+        visibility: visible;
+    }
+
+    .village-img {
+        height: 200px;
+        width: 270px;
+    }
+    .parent-black button{
+        margin: 7px;
+    }
+    .child-head{
+        font-size: 14px;
+        padding: 0;
+        width: 80%;
+    }
+    .wellcome{
+        font-size: 16px;
+    }
+    .SnP1{
+        font-size: 17px;
+    }
+    .salt{
+        font-size: 16px;
+    }
+    .rest-one{
+        font-size: 16px;
+    }
+    .button-one{
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .isl{
+        height: 400px;
+    }
+     .childimg-1{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-1{
+        /* background-color: aqua; */
+        width: 88%;
+    }
+
+    .childimg-2{
+        margin-top: 16px;
+        width: 300px;
+        height: 150px;
+    }
+    .parentimg-2{
+        /* background-color: aqua; */
+        width: 88%;
+        font-size: medium;
+    }
+    .first3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .lastS{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .second{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .img-cursor{
+        width: 350px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+
+    .logo {
+        width: 170px;
+        height: 85px;
+    }
+
+    .parent-black{
+        width: 98%;
+
+    }
+
+    button {
+        height: 40px;
+        width: 100px;
+        font-size: 13px;
+    }
+
+    .navContent {
+        width: 88%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .m{
+        display: none;
+    }
+
+    .right {
+        width: 70%;
+    }
+    .faisalabad-img {
+        width: 600px;
+    }
+
+
+
+
+
+}
+
+@media screen and (min-width: 2500px) {
+    .nav {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo{
+        height: 150px;
+    }
+
+    .navContent {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 90%;
+        /* background-color: rgb(61, 84, 84); */
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* background-color: aquamarine; */
+        width: 85%;
+    }
+
+    .navT {
+        color: white;
+        font-size: 34px;
+    }
+
+    .navT:hover {
+        cursor: pointer;
+    }
+
+    .right {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 60%;
+    }
+    .Get{
+        font-size: 25px;
+        width: 200px;
+    }
+    .Order{
+        font-size: 27px;
+    }
+    button {
+        font-size: 30px;
+        height: 70px;
+        width: 180px;
+    }
+    .parent-black button{
+        height: 80px;
+        width: 230px;
+    }
+    .parent-slider{
+        width: 100%;
+    }
+    .wellcome{
+        font-size: 80px;
+    }
+    .wellcome-child{
+        font-size: 50px;
+    }
+    .brand-img{
+        height: 280px;
+        width: 400px;
+    }
+    .SnP1{
+        font-size: 80px;
+    }
+    .salt{
+        font-size: 50px;
+    }
+    .franchise-small{
+        font-size: 40px;
+    }
+    .red{
+        font-size: 35px;
+    }
+    .red1{
+        font-size: 50px;
+    }
+    .SnP2{
+        font-size: 33px;
+    }
+    .expprs{
+        font-size: 33px;
+    }
+    .rest-one{
+        font-size: 50px;
+    }
+    .location-one{
+        font-size: 35px;
+    }
+    .call-one{
+        font-size: 35px;
+    }
+    .childimg-1{
+        width: 1300px;
+        height: 800px;
+    }
+    .franchises-img{
+        width: 420px;
+    }
+    .village-img{
+        width: 1300px;
+    }
+    .Gujrat{
+        font-size: 60px;
+    }
+    .expres1{
+        font-size: 70px;
+        color: white;
+    }
+    .food-court1{
+        font-size: 40px;
+        color: white;
+    }
+    .ph1{
+        font-size: 35px;
+        color: white;
+    }
+    .img-cursor{
+        width: 550px;
+    }
+    .Express-Franchises{
+        font-size: 65px;
+    }
+    .opn{
+        font-size: 40px;
+    }
+    .social-head{
+        font-size: 85px;
+    }
+    .img-cursor1{
+        width: 400px;
+    }
+}
